@@ -17,4 +17,4 @@ Dane w pliku:
 3;Lasy;Piękne zdjęcie lasu;13-12-2022;
 ```
 Wygląd
-![screenshot](screenshots/screenshot.png)
+<img src="https://github.com/SouthKioto/photo-gallery-wpf/blob/master/WpfApp1/screenshots/screenshot.png"/>
