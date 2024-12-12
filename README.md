@@ -15,5 +15,5 @@ w pliku tekstowym powinny znajdować sie dane takie same jak w [data.txt](https:
 Lokalizacja pliku tekstowego
 
 ```bash
-...WpfApp1\bin\Debug\net8.0-windows
+...WpfApp1\bin\Debug\net8.0-windows\
 ```
