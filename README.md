@@ -16,5 +16,5 @@ Dane w pliku:
 2;Gory;Piękne zdjęcie gór;12-12-2022;
 3;Lasy;Piękne zdjęcie lasu;13-12-2022;
 ```
-
-
+Wygląd
+![screenshot](screenshots/screenshot.png)
